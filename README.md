@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server">
 </a>
 <a href="https://board.rankedgaming.com/user/241455548" target="_blank">
-  <img src="https://img.shields.io/badge/RGC%20Profile-%23FF6600.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAA..." alt="RGC Profile">
+  <img src="https://img.shields.io/badge/RGC%20Profile-%23FF6600.svg?style=for-the-badge&logo=https://i.imgur.com/9iGQLn0.png&logoColor=white" alt="RGC Profile">
 </a>
 
 
