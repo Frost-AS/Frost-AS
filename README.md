@@ -3,9 +3,7 @@
 <a href="https://discord.gg/rankedgaming" target="_blank">
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server">
 </a>
-<a href="https://board.rankedgaming.com/user/241455548" target="_blank">
-  <img src="https://img.shields.io/badge/RGC%20Profile-%23FF6600.svg?style=for-the-badge&logo=https://raw.githubusercontent.com/username/repo/main/rgc-logo.svg&logoColor=white" alt="RGC Profile">
-</a>
+
 
 ## 💻 Tech Stack
 
@@ -22,6 +20,9 @@
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-%232C3E50.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+
+### 🤖 Discord Bot Development:
+![YAGPDB](https://img.shields.io/badge/YAGPDB-%23007ACC.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
