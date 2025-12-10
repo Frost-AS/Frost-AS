@@ -3,9 +3,11 @@
 <a href="https://discord.gg/rankedgaming" target="_blank">
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server">
 </a>
-<a href="https://board.rankedgaming.com/user/241455548" target="_blank">
-  <img src="https://img.shields.io/badge/RGC%20Profile-%23FF6600.svg?style=for-the-badge&logo=https://i.imgur.com/9iGQLn0.png&logoColor=white" alt="RGC Profile">
+<a href="https://board.rankedgaming.com/user/241455548" target="_blank" style="display:inline-flex; align-items:center; gap:5px;">
+  <img src="https://i.imgur.com/9iGQLn0.png" alt="RGC Logo" style="width:20px; height:20px;">
+  <img src="https://img.shields.io/badge/RGC%20Profile-%23FF6600.svg?style=for-the-badge&logoColor=white" alt="RGC Profile">
 </a>
+
 
 
 ### 💻 Tech Stack [Learning...]:
