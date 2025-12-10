@@ -1,9 +1,7 @@
-# <h2 class="fs-1 fw-bold">Frost <img src="https://i.imgur.com/8KfowYF.png" alt="[ERROR] failed to load img" style="width: 20px; height: 20px;"></h2>
-## 🌐 Socials:
+## 🌐 Socials: <img src="https://i.imgur.com/8KfowYF.png" alt="[ERROR] failed to load img" style="width: 20px; height: 20px;">
 <a href="https://discord.gg/rankedgaming" target="_blank">
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server">
 </a>
-
 
 ## 💻 Tech Stack
 
