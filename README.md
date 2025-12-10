@@ -24,3 +24,10 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+---
+
+## 🤖 Powered by AI
+<a href="https://openai.com/chatgpt" target="_blank">
+  <img src="https://img.shields.io/badge/ChatGPT-Best%20Debugger-%2333CCFF.svg?style=for-the-badge&logo=robot&logoColor=white" alt="ChatGPT is best debugger">
+</a>
