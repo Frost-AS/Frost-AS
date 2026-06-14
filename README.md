@@ -1,4 +1,5 @@
 # 𝒏𝒐1{ (𝒊𝒔 𝒘𝒊𝒔𝒆[] 𝒆𝒏𝒐𝒖𝒈𝒉) 𝒕𝒐 𝒓𝒆𝒎𝒂𝒊𝒏.𝒔𝒊𝒍𝒆𝒏𝒕;} <img src="https://flagcdn.com/w40/ir.png" width="32">
+![Iran](https://img.shields.io/badge/From-Iran-%23239F40?style=for-the-badge&labelColor=DA0000&logoColor=white)
 
 ## 🌐 Socials <img src="https://i.imgur.com/8KfowYF.png" alt="[ERROR] failed to load img" style="width: 20px; height: 20px;">
 <a href="https://discord.gg/rankedgaming" target="_blank">
