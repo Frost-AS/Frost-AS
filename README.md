@@ -1,3 +1,5 @@
+# 𝒏𝒐1{ (𝒊𝒔 𝒘𝒊𝒔𝒆[] 𝒆𝒏𝒐𝒖𝒈𝒉) 𝒕𝒐 𝒓𝒆𝒎𝒂𝒊𝒏.𝒔𝒊𝒍𝒆𝒏𝒕;}
+
 ## 🌐 Socials <img src="https://i.imgur.com/8KfowYF.png" alt="[ERROR] failed to load img" style="width: 20px; height: 20px;">
 <a href="https://discord.gg/rankedgaming" target="_blank">
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server">
